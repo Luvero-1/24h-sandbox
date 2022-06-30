@@ -21,7 +21,7 @@
   "system": "sandbox",
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Luvero-1/24h-sandbox/world.json",
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/24h-sandbox/main/world.json",
   "download": "https://codeload.github.com/Luvero-1/24h-sandbox/zip/main",
   "protected": false,
   "coreVersion": "9.269",
