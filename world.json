@@ -1,7 +1,7 @@
 {
   "name": "24h-sandbox",
-  "title": "24 horas en la escena del crimen",
-  "description": "Sistema 24 horas en la escena del crimen para Sandbox",
+  "title": "24 horas para Sandbox",
+  "description": "<p>Sistema 24 horas en la escena del crimen para Sandbox</p>",
   "authors": [
     {
       "name": "Luvero",
@@ -24,7 +24,9 @@
   "manifest": "https://raw.githubusercontent.com/Luvero-1/24h-sandbox/main/world.json",
   "download": "https://codeload.github.com/Luvero-1/24h-sandbox/zip/main",
   "protected": false,
+  "background": "",
   "coreVersion": "9.269",
+  "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.13.4"
